@@ -1,5 +1,7 @@
 # JuniorDevSG Mentoring Program
 
+[About the Mentoring Program](./about.md)
+
 ## Handbooks
 
 - [Mentors Handbook](./mentors_handbook.md) - *Updated 12 Aug 2019*
