@@ -40,9 +40,17 @@ His mentoring can be technical related, but he prefers to put the focus on soft 
 
 ### Brendan Graetz
 
-**Software engineer, bguiz**
+![Brendan Graetz](http://blog.bguiz.com/images/logo-100px.png)
 
-<https://www.linkedin.com/in/brendangraetz/>
+**Founder, DApps Dev Club**
+
+Brendan designs, develops, and ensures code quality for highly scalable back end servers, using mostly NodeJs.
+
+He also runs the decentralised applications development club, a book club style tech meetup that teaches participants how to build applications using distributed ledger technology.
+
+- <http://bguiz.com/>
+- <https://dappsdev.org/>
+- <https://www.linkedin.com/in/brendangraetz/>
 
 ---
 
