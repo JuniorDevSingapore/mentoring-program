@@ -144,7 +144,13 @@ More than a decade experience building enterprise level web applications, buildi
 
 ### Subhransu Behera
 
+![Subhransu Behera](./images/mentor_subh.jpg)
+
 **Principal Software Engineer, SPGroup**
+
+Subh works as a Principal Software Engineer in the R&D team at SP Digital. Before joining SP, he has worked at several product companies like PayPal, SAP and Red Hat as well as smaller startups where he was the first hire. In last 14 years he has tried several technologies but spent most part of his career building iOS apps. He is also the founder of iOS meetup group and iOS Conference in Singapore. In his free time he loves to play piano, teach how nature works to his daughter and loves to meet and learn about other developers.
+
+Subh believes everyone has abilities to achieve remarkable things in their lives. However, some needs guidance and some needs a little push. Through this mentoring program, he hopes he can help someone realize his or her full potential.
 
 <https://www.linkedin.com/in/subhransubehera/>
 
