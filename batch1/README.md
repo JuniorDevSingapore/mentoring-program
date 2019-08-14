@@ -100,7 +100,13 @@ Isha is a Developer and Agile Consultant with Mavericks Consulting. She comes fr
 
 ### Max Ong Zong Bao
 
+![Max Ong Zong Bao](./images/mentor_max_ong_zong_bao.jpg)
+
 **Full Stack Developer, MicroSec Pte Ltd**
+
+Max is a **life enhancer** for tech & entrepreneurship. Which seeks to **blend** both to build innovative products or services for the world that solves hard problems.
+
+Max develops website, APIs using both **Flask** and **Django** for a living in a local deep tech Singapore based startup called **"MicroSec"** which builds end to end security software for IoT devices.
 
 <https://www.linkedin.com/in/maxongzb/>
 
