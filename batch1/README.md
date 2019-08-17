@@ -134,7 +134,11 @@ More than a decade experience building enterprise level web applications, buildi
 
 ### See Yishu
 
+![Yishu See](./images/mentor_yishu_see.jpg)
+
 **Senior Software Engineer, Carousell**
+
+Yishu is a software engineer at Carousell, currently contributing to the web platform. Previously she has built and managed teams, inherited classes as an iOS engineer and fleetingly a ~~pixel mover~~ product designer. She's particularly excited about rebasing, processes and pondering on growth as a software human.
 
 <https://www.linkedin.com/in/yishu-see/>
 
