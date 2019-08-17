@@ -212,3 +212,196 @@ P.S. A pretty detailed list of what I know (and don't know) can be found here: <
 <https://www.linkedin.com/in/ychoong/>
 
 ---
+
+## Mentees
+
+### Andrew Thian
+
+**Front-end engineer, 99.co**
+
+---
+
+### Benjamin Luis Lim
+
+**Robotics Application Engineer	SUSS**
+
+---
+
+### Benny Lee Jung Thai
+
+**Software Engineer, Yuvo Pte Ltd**
+
+---
+
+### Brian Teh Joo Tong
+
+**Software Engineer, Asteria Corporation**
+
+---
+
+### Daniel Choo
+
+**Student, General Assembly**
+
+---
+
+### David Lam
+
+**Senior Application Analyst, Singapore Airlines**
+
+---
+
+### Foo shilong
+
+**Business analysis, Credit agricole**
+
+---
+
+### Goh Hong Yi
+
+**Application Consultant, NCS Pte Ltd.**
+
+---
+
+### Goh Puay Hiang
+
+**SDE Intern / Student, Garuda Robotics / NTU**
+
+---
+
+### Hui Min Toh
+
+**Frontend engineer, PebbleRoad Pte. Ltd.**
+
+Min is a business analyst turned developer and is currently a frontend engineer with PebbleRoad. She is passionate about the community and contributes where she can. Outside of work, Min tinkers with personal projects to improve and build competency. She also loves her coffee.
+
+Though this program, she hopes to gain insight of the gaps and opportunities as she navigates the landscape and learn from the experience of others.
+
+<https://www.linkedin.com/in/huimintoh/>
+
+---
+
+### Jonathan Louis Ng
+
+**Software Engineer, abillionveg**
+
+---
+
+### Lee Jia Lin
+
+**Software Engineer, Ninja Van**
+
+---
+
+### Lee Wen Yao Peter
+
+**Software developer, School - General assembly**
+
+<https://www.linkedin.com/in/peterleewenyao/>
+
+---
+
+### Luna Ong Sze Teng
+
+**Student, SUTD**
+
+---
+
+### Muhammad bin Noor Ariffin
+
+**Software Engineer, impress.ai**
+
+---
+
+### Sabrina Tjeng
+
+**Software Engineer, SP Digital**
+
+---
+
+### Seah Shih Wei Gerome
+
+**Student, National University of SIngapore**
+
+---
+
+### See Yi Jie
+
+**Aspiring Software Engineer (Final year), Singapore University of Technology and Design**
+
+See Yi Jie, Undergraduate at Singapore University of Technology and Design, Incoming Application Developer at Citi
+
+Yi Jie is an aspiring software engineer and has picked up any suitable technologies/frameworks to get the job done. He fell in love with programming during his first internship at a coding school. Yi Jie feels that building a software is a combination of an art and science. 
+
+He likes reading and learning on long bus and train rides to and from school.
+Apart from coding, Yi Jie dances for fun and enjoys playing table tennis.
+
+---
+
+### Sharon Woo
+
+**Research Engineer, Singapore Management University, Singapore Management University**
+
+---
+
+### Shirlaine Phang 
+
+**Marketing Ops Specialist, ClassPass**
+
+---
+
+### Sujin Lee
+
+**Web Developer, Singapore Press Holdings**
+
+I am a web developer working on various types of interactive visual stories, data analysis & visualizations projects at the interactive graphics team in the straits times.
+
+Since I started jumping into the programming world, above six technical tutorials and books related to web technologies were translated into Korean by me.
+
+Last year, I got the opportunity to participate on babel.js project throughout Rails Girls Summer Of Code program.
+These invaluable experiences, heartwarming communities, and awesome people in tech motivated me to change my career from project manager to developer and keep learning without giving up.
+
+I always believe that vital to the quality of our life is the ability to work together, learn from each other and help others grow.
+I hope to learn not only hard skills of technical knowledge and abilities but also soft skills to become a better developer myself from all participants during this program
+
+<https://www.linkedin.com/in/leesujin/>
+
+---
+
+### Tan Hui Tian
+
+**Junior Front End Web Dev, Smartkarma**
+
+Hui Tian is a junior front end developer at SmartKarma, who switched from a career as a game artist.
+
+---
+
+### Thien su wei
+
+**Adjunct lecturer, Temasek Polytechnic**
+
+---
+
+### Thu Ya Kyaw
+
+**Machine Learning Engineer, NTUC Enterprise**
+
+---
+
+### Vanessa Cassandra
+
+**Front End Engineer, PebbleRoad**
+
+---
+
+### Varick Lim Sheng Rui
+
+**Software Engineer, Circles.Life**
+
+---
+
+### Ying Qi Yeoh
+
+**Product Engineer, Thunes**
+
+---
