@@ -247,7 +247,11 @@ P.S. A pretty detailed list of what I know (and don't know) can be found here: <
 
 ### David Lam
 
+![David Lam](./images/mentee_david_lam.jpg)
+
 **Senior Application Analyst, Singapore Airlines**
+
+Hi, I'm David. I work as a mobile developer (iOS) for most of my career in tech. Before working as a developer, I was a student in Nanyang Technological University studying the fascinating world of propulsion and aerodynamics. Currently, I'm working in Singapore Airlines. I love the idea of clean code, but admittedly I do not always produce it. Hopefully we can all learn to be better, together. :)
 
 ---
 
