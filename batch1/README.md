@@ -449,6 +449,10 @@ I'm excited to be part of a community where we can learn from one another and gr
 
 ### Ying Qi Yeoh
 
+![Ying Qi Yeoh](./images/mentee_yeoh_qingqi.jpg)
+
 **Product Engineer, Thunes**
+
+Ying Qi spent her career in audit & finance before making the switch to IT. Currently a product engineer at Thunes, she believes in leveraging the power of technology for social good.
 
 ---
