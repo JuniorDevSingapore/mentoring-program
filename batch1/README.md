@@ -1,5 +1,8 @@
 # Batch 1 - Aug to Dec 2019
 
+- [Mentors](#mentors)
+- [Mentees](#mentees)
+
 ## Mentors
 
 ### Andrew Fam
@@ -221,12 +224,6 @@ P.S. A pretty detailed list of what I know (and don't know) can be found here: <
 
 ---
 
-### Benjamin Luis Lim
-
-**Robotics Application Engineer	SUSS**
-
----
-
 ### Benny Lee Jung Thai
 
 **Software Engineer, Yuvo Pte Ltd**
@@ -255,15 +252,27 @@ Hi, I'm David. I work as a mobile developer (iOS) for most of my career in tech.
 
 ---
 
-### Foo shilong
+### Foo Shilong
+
+![Foo Shilong](./images/mentee_foo_shilong.jpg)
 
 **Business analysis, Credit agricole**
+
+Just graduated from a non-cs degree, working as a business analyst in a bank. Self studying front end since Jan19. Would love to hear from self taught mentors who knows the way. Love dogs.
 
 ---
 
 ### Goh Hong Yi
 
+![Goh Hong Yi](./images/mentee_goh_hongyi.jpg)
+
 **Application Consultant, NCS Pte Ltd.**
+
+I recently graduated from SIM-UOL with a degree in Computing and Information Systems and started my first job at NCS as an application consultant, mainly working with Spring and Angular.
+
+Besides working, I try to work on my personal projects that uses tools different from work to improve myself and widen my knowledge and play the piano for fun.
+
+Through this program, I hope to learn and share with peers and mentors alike!
 
 ---
 
@@ -274,6 +283,8 @@ Hi, I'm David. I work as a mobile developer (iOS) for most of my career in tech.
 ---
 
 ### Hui Min Toh
+
+![Hui Min Toh](./images/mentee_toh_huimin.jpg)
 
 **Frontend engineer, PebbleRoad Pte. Ltd.**
 
@@ -293,7 +304,11 @@ Though this program, she hopes to gain insight of the gaps and opportunities as 
 
 ### Lee Jia Lin
 
+![Lee Jia Lin](./images/mentee_lee_jialin.jpg)
+
 **Software Engineer, Ninja Van**
+
+My name is Jialin, and I currently am at my first full-time job as a software engineer, focusing on frontend and delving deeper into backend at the moment.Most of my job experiences involved working in startups, so if you're in that space, we can share more! I've worked with React (and GatsbyJS!), and dabbled in very light Vue. At the moment, I'm working with Java again for work, specifically with the Play framework. Looking forward to meet everyone!
 
 ---
 
@@ -319,7 +334,13 @@ Though this program, she hopes to gain insight of the gaps and opportunities as 
 
 ### Sabrina Tjeng
 
+![Sabrina Tjeng](./images/mentee_sabrina_tjeng.jpg)
+
 **Software Engineer, SP Digital**
+
+Sabrina accidentally fell in love with programming in university. She is a graduate of the TechLadies and Jumpstart bootcamps and currently works as a full-stack developer at SP Digital.
+
+Through this experience, Sabrina hopes to be exposed to the different types of advice and opinions a senior developer can impart about growing as a developer from a technical perspective, as well as to understand how she can best craft a fulfilling experience as a junior dev for both herself as well as her team mates.
 
 ---
 
@@ -356,6 +377,8 @@ Apart from coding, Yi Jie dances for fun and enjoys playing table tennis.
 
 ### Sujin Lee
 
+![Sujin Lee](./images/mentee_sujin_lee.jpg)
+
 **Web Developer, Singapore Press Holdings**
 
 I am a web developer working on various types of interactive visual stories, data analysis & visualizations projects at the interactive graphics team in the straits times.
@@ -373,6 +396,8 @@ I hope to learn not only hard skills of technical knowledge and abilities but al
 ---
 
 ### Tan Hui Tian
+
+![Tan Hui Tian](./images/mentee_tan_huitian.jpg)
 
 **Junior Front End Web Dev, Smartkarma**
 
@@ -400,7 +425,15 @@ Hui Tian is a junior front end developer at SmartKarma, who switched from a care
 
 ### Varick Lim Sheng Rui
 
+![Varick Lim Sheng Rui](./images/mentee_varick_lim.jpg)
+
 **Software Engineer, Circles.Life**
+
+Hi I'm Varick Lim. I've just recently graduated from NTU and started my journey as a Software Engineer at Circles.Life. I enjoy building web applications and picking up new technologies/frameworks along the way. I believe that a good software engineer should have both hard and soft skills, which I hope to continuously improve upon.
+
+I'm excited to be part of a community where we can learn from one another and grow to become better developers/humans.
+
+<https://www.linkedin.com/in/varicklim/>
 
 ---
 
