@@ -93,9 +93,19 @@ Isha is a Developer and Agile Consultant with Mavericks Consulting. She comes fr
 
 ---
 
-### Shashikala karunagaran
+### Shashikala Karunagaran
+
+![Shashikala Karunagaran](./images/mentor_shashikala_karunagaran.jpg)
 
 **Senior software developer, Ingenico**
+
+Hi, I'm a Software Developer with 10+ years of experience in FinTech industry.
+
+My experitse lies in programming, product solutioning and training junior developers in the team.
+
+In my free time, I bake cakes and breads for family and friends. This helps me to keep my sanity intact :)
+
+Through this program, I wish to share the knowledge that I have gained and lessons learnt in the ever evolving tech industry.
 
 <https://www.linkedin.com/in/shashikala-karunagaran-393436106/>
 
