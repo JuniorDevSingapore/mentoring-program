@@ -327,6 +327,9 @@ My name is Jialin, and I currently am at my first full-time job as a software en
 **Student, SUTD**
 
 ---
+An undergraduate in Information Systems at SUTD, Luna has been dipping her toes into web design and development while picking up coding langauges and frameworks in and out of school. Despite having very basic knowledge from her learning journey and just getting back into the groove after a long hiatus, she is eager to explore programming in a team based environment to improve her skills and get to know others working towards the same goals.
+
+In her free time, she dabbles in makeup, creative and copy writing, and watercolour art.
 
 ### Muhammad bin Noor Ariffin
 
