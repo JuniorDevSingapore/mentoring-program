@@ -5,6 +5,16 @@
 
 ## Mentors
 
+### Alwyn Tan
+
+**Senior Software Engineer, [Open Government Products](https://open.gov.sg)**
+
+<https://github.com/LoneRifle>
+
+<https://www.linkedin.com/in/alwynt>
+
+---
+
 ### Andrew Fam
 
 ![Andrew Fam](./images/mentor_andrew_fam.jpg)
@@ -90,14 +100,6 @@ Henry currently works as a Strategic Cloud Engineer helping Google's most strate
 Isha is a Developer and Agile Consultant with Mavericks Consulting. She comes from an Electronics and Communications background and ended up in IT quite by accident. She has been a developer, business analyst, technical trainer, and full-time consultant. Through this program she hopes to help new developers find their place in the industry and learn from the learnings of others.
 
 <https://www.linkedin.com/in/isha-tripathi-00914944/>
-
----
-
-### Alwyn Tan
-
-<https://github.com/LoneRifle>
-
-<https://www.linkedin.com/in/alwynt>
 
 ---
 
