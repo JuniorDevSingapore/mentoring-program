@@ -367,7 +367,11 @@ Apart from coding, Yi Jie dances for fun and enjoys playing table tennis.
 
 ### Sharon Woo
 
-**Research Engineer, Singapore Management University, Singapore Management University**
+![Sharon Woo](./images/mentee_sharon_woo.jpeg)
+
+**Research Engineer, Singapore Management University**
+
+Sharon is currently finishing up a part time Masters at SMU. She mostly does scripting for simple analytics, machine learning and deep learning pipelines using Python, and is tryharding at building software in the more traditional sense. Outside of school and work, she likes sleeping and shopping and she really should be running.
 
 ---
 
