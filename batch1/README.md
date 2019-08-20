@@ -433,7 +433,7 @@ Hui Tian is a junior front end developer at SmartKarma, who switched from a care
 
 **Front End Engineer, PebbleRoad**
 
-Coming from Electrical Engineering background, Vanessa recently started her journey as a front-end engineer. She loves her job because it allows her to create things that can influence people through their screens. She aspires use this newly-acquired ability to spread good ideas to ~~rule the world~~ make the world a better place.
+Coming from Electrical Engineering background, Vanessa recently started her journey as a front-end engineer. She loves her job because it allows her to create things that can influence people through their screens. She aspires use this newly-acquired ability to spread good ideas and ~~rule the world~~ make the world a better place.
 
 <https://www.linkedin.com/in/vanessa-cassandra/>
 
