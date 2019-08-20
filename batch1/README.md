@@ -282,7 +282,7 @@ Through this program, I hope to learn and share with peers and mentors alike!
 
 ![Goh Puay Hiang](./images/mentee_puay_hiang.jpg)
 
-**Undergrad, / Nanyang Technological University**
+**Undergrad, Nanyang Technological University**
 
 Puay Hiang hopes to build the next Pied Piper.
 
