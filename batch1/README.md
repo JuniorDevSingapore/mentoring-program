@@ -280,7 +280,13 @@ Through this program, I hope to learn and share with peers and mentors alike!
 
 ### Goh Puay Hiang
 
-**SDE Intern / Student, Garuda Robotics / NTU**
+![Goh Puay Hiang](./images/mentee_puay_hiang.jpg)
+
+**Undergrad, Nanyang Technological University**
+
+Puay Hiang hopes to build the next Pied Piper.
+
+<https://www.linkedin.com/in/gphofficial/>
 
 ---
 
