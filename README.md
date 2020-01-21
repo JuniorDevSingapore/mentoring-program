@@ -9,5 +9,6 @@
 
 ## 📅 Batches
 
-- [Batch 1 (Aug-Dec 2019)](./batch1/README.md) - *Current!*
+- [Batch 2 (Apr-Aug 2020)](./batch2/README.md) - *Upcoming!*
+- [Batch 1 (Aug-Dec 2019)](./batch1/README.md)
 - [Pilot Batch (11 Apr - 21 May)](./pilot/README.md) 🥇
