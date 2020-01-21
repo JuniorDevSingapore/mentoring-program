@@ -27,6 +27,10 @@
 
 To be confirmed.
 
+Sign-up here: <https://bit.ly/jdsg-mentor-signup-batch2>
+
 ## Mentees
 
 To be confirmed.
+
+Sign-up here: <https://bit.ly/jdsg-mentee-signup-batch2>
