@@ -1,6 +1,6 @@
 # Pilot Batch (11 Apr - 21 May)
 
-## Background:
+## Background
 
 We did a survey with the JuniorDevSG group and identified three areas that they needed mentoring guidance:
 
@@ -22,7 +22,7 @@ We plan to hold it at a fixed location for the first few sessions. Tuesday eveni
 
 If there are topics that we feel might be best covered as a training session, we will escalate it to the Developer's Gym or meetup talks.
 
-## Format:
+## Format
 
 ### Kick-off Session:
 
@@ -53,7 +53,7 @@ If there are topics that we feel might be best covered as a training session, we
 - Short retrospective session with mentors and mentees on the mentoring program so far.
 - Make decision on continuing, stopping or expanding the program.
 
-## Mentors:
+## Mentors
 
 ![Mentors of the Pilot Batch](./JuniorDevSG-Mentoring-Pilot-Batch-Mentors.png)
 
