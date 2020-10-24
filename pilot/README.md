@@ -52,3 +52,19 @@ If there are topics that we feel might be best covered as a training session, we
 
 - Short retrospective session with mentors and mentees on the mentoring program so far.
 - Make decision on continuing, stopping or expanding the program.
+
+## Mentors:
+
+![Mentors of the Pilot Batch](./JuniorDevSG-Mentoring-Pilot-Batch-Mentors.png)
+
+## Mentoring Sessions
+
+![](./photos/1.png)
+
+![](./photos/2.png)
+
+![](./photos/3.png)
+
+![](./photos/4.png)
+
+![](./photos/5.png)
