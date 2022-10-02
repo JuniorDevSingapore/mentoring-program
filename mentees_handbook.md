@@ -75,3 +75,33 @@ As a participating Mentee in the Junior Developers Singapore Mentoring Program (
 - Be pro-active during group discussions during the group mentoring sessions.
 - Continue discussion with the mentoring group through your communication channel (eg. Slack).
 - Be attentive to your Mentor Buddy.
+
+
+## Upload Your Profile
+Please use the section for `Profile Sample` to create your own profile in the `README.md` in `batch3` folder.
+
+**Steps**
+- You can upload your profile photo at `batch3` -> `images` folder under `mentor/mentee_name.jpg` (optional)
+- Add in your profile details following the `Profile Sample` in either the
+[Mentor](https://github.com/JuniorDevSingapore/mentoring-program/blob/master/mentors_handbook.md) or
+[Mentee](https://github.com/JuniorDevSingapore/mentoring-program/blob/master/mentees_handbook.md) handbook
+- Please do a PR (Pull Request) for `batch3` -> `README.md` to update your profile as a mentor/metee. You can also ask 
+either the organisers to help you in adding your profile by sending your details and photos. 
+
+### Profile Sample
+
+#### John Doe
+
+![John Doe](./images/mentor_or_mentee_name.jpg)
+
+**Job Title, [company](https://www.website_name.com)**
+
+**GitHub <https://github.com/username>** - Optional
+
+**LinkedIn <https://www.linkedin.com/in/username>** 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
