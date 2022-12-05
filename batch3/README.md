@@ -13,13 +13,12 @@
 | Fri, 4th Nov 2022    | Registration Form for both Mentor and Mentee      |
 | End of Nov 2022	     | Announce Selected Applicants as Mentor and Mentee |
 | Wed, 11th Jan, 2023	 | Mentors Orientation                               |
-| Wed, 1st Feb, 2023	  | Mentorship Programme Kickoff                      |
+| Wed, 18th Jan, 2023	  | Mentorship Programme Kickoff                      |
 | Wed, 22nd Feb, 2023	 | Mentoring                                         |
 | Wed, 15th Mar, 2023	 | Mentoring                                         |
 | Wed, 5th Apr, 2023	  | Mentoring                                         |
 | Wed, 26th Apr, 2023	 | Mentoring                                         |
-| Wed, 17th May, 2023	 | Mentoring                                         |
-| Tue, 24th May, 2023	 | Graduation - Presenting + Sharing + Retro         |
+| Wed, 17th May, 2023	 | Graduation - Presenting + Sharing + Retro         | 
 
 ## Mentors
 
