@@ -14,11 +14,13 @@
 | End of Nov 2022	     | Announce Selected Applicants as Mentor and Mentee |
 | Wed, 11th Jan, 2023	 | Mentors Orientation                               |
 | Wed, 18th Jan, 2023	  | Mentorship Programme Kickoff                      |
+| Wed, 1st Feb, 2023	 | Mentoring                                         |
 | Wed, 22nd Feb, 2023	 | Mentoring                                         |
 | Wed, 15th Mar, 2023	 | Mentoring                                         |
 | Wed, 5th Apr, 2023	  | Mentoring                                         |
 | Wed, 26th Apr, 2023	 | Mentoring                                         |
-| Wed, 17th May, 2023	 | Graduation - Presenting + Sharing + Retro         | 
+| Wed, 17th May, 2023	 | Mentoring                                         |
+| Wed, 24th May, 2023	 | Graduation - Presenting + Sharing + Retro         |
 
 ## Mentors
 
@@ -38,11 +40,11 @@ Sign-up here: <https://bit.ly/jdsg-mentor-signup-batch3>
 
 **LinkedIn <https://www.linkedin.com/in/maxongzb>**
 
-Max is a life enhancer for tech & entrepreneurship. Who seeks to blend both to build innovative products or services 
+Max is a life enhancer for tech & entrepreneurship. Who seeks to blend both to build innovative products or services
 for the world that solves hard problems.
 
-Max is the Founder for Upskillcycle a tech upskill and mentoring platform for PWD (People with Disabilities) and 
-able individuals in their tech career. He's a blogger with 36k+ following of developers on multiple platforms. 
+Max is the Founder for Upskillcycle a tech upskill and mentoring platform for PWD (People with Disabilities) and
+able individuals in their tech career. He's a blogger with 36k+ following of developers on multiple platforms.
 He's been working as a software consultant for multiple startups & government agencies in the past.
 ---
 
