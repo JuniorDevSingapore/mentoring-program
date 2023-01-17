@@ -61,11 +61,11 @@ He's been working as a software consultant for multiple startups & government ag
 
 **LinkedIn <https://www.linkedin.com/in/eugenengboxiang/>**
 
-I am a Mechanical Engineering Graduate and started my Software Engineering career in late 2021 via the Technology In Finance Immersion programme. The programme includes a bootcamp (Angular, JavaSpring and basic SQL) and a 12 months attachment with a Financial Institute.
+I am a Mechanical Engineering Graduate and started my Software Engineering career in late 2021 via the Technology in Finance Immersion programme. The programme includes a bootcamp (Angular, JavaSpring and basic SQL) and an attachment with a Financial Institute for a period of 12 months.
 
-I am currently attached to DBS - Middle Office Technology and we support the replatforming of internal applications. Currently, I exposure at work includes SQL, Shell Scripting, Scala and Apache Spark. My current responsibilities involve data engineering work and I am supporting the development for a data pipeline between an upstream of mainframe systems and a downstream system that is responsible for presenting data and generating reports.
+Currently, I am attached to DBS - Middle Office Technology and we support the re-platforming of internal applications. My exposure in DBS includes SQL, Shell Scripting, Scala and Apache Spark. My present responsibilities involve data engineering work and I am supporting the development for a data pipeline between an upstream of mainframe systems and a downstream system that serves to presenting data in a UI and generating reports for users.
 
-Outside of work, I am currently doing a part time bootcamp by Rocket Academy. The curriculum includes the MERN stack and basic Data Structures and Algorithms.
+Outside of work, I am attending a part time bootcamp by Rocket Academy. The curriculum includes the MERN stack and basic Data Structures and Algorithms.
 
 I love nature and anything movement-related! On my free time, I like to read, run, yoga and climb.
 
