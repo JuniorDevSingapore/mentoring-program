@@ -67,7 +67,9 @@ I am currently attached to DBS - Middle Office Technology and we support the rep
 
 Outside of work, I am currently doing a part time bootcamp by Rocket Academy. The curriculum includes the MERN stack and basic Data Structures and Algorithms.
 
-## I love nature and anything movement-related! On my free time, I like to read, run, yoga and climb.
+I love nature and anything movement-related! On my free time, I like to read, run, yoga and climb.
+
+---
 
 To be confirmed.
 
